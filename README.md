@@ -4,11 +4,11 @@ Causal inference and experiment-design methodology applied to the [Olist Brazili
 
 ## Objective
 
-Estimate the causal effect of promotional incentives (voucher usage) on customer conversion/retention, and design a properly powered A/B test to validate the finding prospectively — using propensity score matching to control for selection bias, and sensitivity analysis to test how robust the result actually is.
+Estimate the causal effect of promotional incentives (voucher usage) on customer conversion/retention, and design a properly powered A/B test to validate the finding prospectively - using propensity score matching to control for selection bias, and sensitivity analysis to test how robust the result actually is.
 
 ## Data
 
-Olist's public multi-table e-commerce dataset: orders, order items, payments, reviews, products, customers, and sellers (2016–2018, ~99,441 orders). Raw CSVs are not included in this repo (see `.gitignore`) — download them from Kaggle and place them in `data/raw/` to reproduce.
+Olist's public multi-table e-commerce dataset: orders, order items, payments, reviews, products, customers, and sellers (2016–2018, ~99,441 orders). Raw CSVs are not included in this repo (see `.gitignore`) - download them from Kaggle and place them in `data/raw/` to reproduce.
 
 ## Methodology
 
